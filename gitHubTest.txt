@@ -1,0 +1,7 @@
+Task 4
+Make 5 separate changes by typing words into the text file, git commit and git push each change, and watch the history of your changes in both GitHub Desktop and github.com.
+Take a screenshot of your github history,  and add it to your lab submission file.
+Task 5
+Check your work
+Submit your lab assignment per the instructions below
+Contact the Professor to review, provide feedback, and grade your lab assignment
